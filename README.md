@@ -1,6 +1,6 @@
 <h1><img src="https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png" alt="" style="max-width:100%;" /> Remote Lesson Format</h1>
 
-* Zoom Link: link
+* Zoom Link: https://generalassembly.zoom.us/j/97589790715?pwd=SGM5dlovU3VYSFRyOWxFcC9Pam9pQT09
 
 ## Requirements
 
@@ -29,21 +29,3 @@
 * What lesson or outside sources have you referenced?
 
 If you cannot answer these questions, the instructors may ask you to go find these answers before assisting you further.
-
-## FAQ
-<details>
-<summary><b>How will projects be handled in a remote format?</b></summary>
-Project collaboration will be done over Zoom. We will be creating breakout rooms for each project group, and you will be required to be in them (with webcam on) during class time. Feel free to keep your mic muted and listen to music etc while working, but you should be still have your webcam on and should be available if a project member needs to ask you a question.
-
-The added benefit to this format is that instructors will be able to more easily assist your entire group all at once!
-</details>
-<br>
-<details>
-<summary><b>We lost a day on 3/13 - will that be made up?</b></summary>
-The course will be extended by one day in order to accommodate for the lost day. The new course end date will be May 12, 2020.
-</details>
-<br>
-<details>
-<summary><b>Will the course be remote-only from here on out? GA only mentioned being remote for two weeks.</b></summary>
-General Assembly is following the recommendations of the CDC and WHO, in addition to state and local governments. For the time being we are planning only for being remote for the next two weeks, but will be updating students/instructors every Thursday while we are teaching remotely. The first update will be on 3/19.
-</details>
