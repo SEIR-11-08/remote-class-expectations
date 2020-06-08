@@ -4,19 +4,20 @@
 
 ## Requirements
 
-* You must be on `Zoom` AND `Slack` from 9AM-5PM on class days (excluding lunch).
+* You must be on `Zoom` AND `Slack` from 9AM-5PM on class days (excluding breaks).
 * For discussion sessions and projects, you will be assigned a `Zoom breakout room` to collaborate with others. You are expected to participate in all group activities.
 * Your webcam must be on during normal class hours, including group discussions/projects.
 * Please keep your mic muted unless asking questions.
 
 ## Zoom Shortcuts
 * cmd+shift+a - mute/unmute audio
+* spacebar - hold unmutes temporarily
 * cmd+shift+s - screen share
 
 ## How To Ask For Help
 <strong>Questions about a lesson</strong>:
 
-- General lesson questions post to the slack channel: `sei-sf09-parking-lot`.
+- General lesson questions post to the slack channel: `sei-r12-debugging`.
 - During lectures, please feel free to unmute and <em>"interrupt"</em>. Instructors can't see "raised hands" during remote instruction.
 
 <strong>Questions about code</strong>: please make a <em>descriptive</em> post about your issue in the debugging channel - include in it the relevant code snippet (use the Slack code snippet feature), some context around it, and the specific error you are receiving.
