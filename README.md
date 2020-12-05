@@ -1,6 +1,6 @@
 <h1><img src="https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png" alt="" style="max-width:100%;" /> Remote Lesson Format</h1>
 
-* Zoom Link: <add-link-here>
+* Zoom Link: https://generalassembly.zoom.us/j/95630664189?pwd=cCtBMFI3UVZuTDgyaUkzcGJiMFNadz09
 
 ## Requirements
 
@@ -17,7 +17,7 @@
 ## How To Ask For Help
 <strong>Questions about a lesson</strong>:
 
-- General lesson questions post to the slack channel: `-debugging`.
+- General lesson questions post to the slack channel: `seir-1207-debugging`.
 - During lectures, please feel free to unmute and <em>"interrupt"</em>. Instructors can't see "raised hands" during remote instruction.
 
 <strong>Questions about code</strong>: please make a <em>descriptive</em> post about your issue in the debugging channel - include in it the relevant code snippet (use the Slack code snippet feature), some context around it, and the specific error you are receiving.
