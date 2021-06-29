@@ -1,6 +1,7 @@
 <h1><img src="https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png" alt="" style="max-width:100%;" /> Remote Lesson Format</h1>
 
-* Zoom Link: https://generalassembly.zoom.us/j/95630664189?pwd=cCtBMFI3UVZuTDgyaUkzcGJiMFNadz09
+* Zoom Link: https://generalassembly.zoom.us/j/95974443973
+* For Password: check the Slack channel!
 
 ## Requirements
 
