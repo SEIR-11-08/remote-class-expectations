@@ -1,7 +1,7 @@
-<h1><img src="https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png" alt="" style="max-width:100%;" /> Remote Lesson Format</h1>
-
-* Zoom Link: https://generalassembly.zoom.us/j/95974443973
-* For Password: check the Slack channel!
+<h1>
+    <img src="https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png" alt="" style="max-width:100%;" />
+    Remote Lesson Format
+</h1>
 
 ## Requirements
 
@@ -18,12 +18,14 @@
 ## How To Ask For Help
 <strong>Questions about a lesson</strong>:
 
-- General lesson questions post to the slack channel: `seir-1207-debugging`.
+- Post general lesson questions in the debugging Slack channel.
 - During lectures, please feel free to unmute and <em>"interrupt"</em>. Instructors can't see "raised hands" during remote instruction.
 
 <strong>Questions about code</strong>: please make a <em>descriptive</em> post about your issue in the debugging channel - include in it the relevant code snippet (use the Slack code snippet feature), some context around it, and the specific error you are receiving.
 
-<strong>Requesting 1:1 instructor assistance</strong>: Instructors will be available for 1:1 time via Zoom, and will be happy to assist you. Remember the <strong>20 minute rule</strong>: Never spend more than 20 minutes on a problem before asking for help. When you request instructor support, please be prepared to explain your thought process about the problem, and all of the steps that you took to try to solve it. Consider the following questions:
+<strong>Requesting 1:1 instructor assistance</strong>: Instructors will be available for 1:1 time via Zoom, and will be happy to assist you. 
+
+A handy rule-of-thumb to remember is the <strong>20 minute rule</strong>: Never spend more than 20 minutes on a problem before asking for help. When you request instructor support, please be prepared to explain your thought process about the problem, and the steps that you took to try to solve it. Consider the following questions:
 
 * What is your understanding of the error you're receiving? What clue does the error give you as to how to solve it?
 * Did you look up the error in order to get a better understanding of what it means?
